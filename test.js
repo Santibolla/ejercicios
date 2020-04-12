@@ -2,7 +2,8 @@
 Ejercicio 1:
 imprimir todos los numeros entre 10 y 33
 */
-
+for (let i=10; i<=33; i++){
+  console.log (i);
 }
 /*
 Ejercicio 2:
