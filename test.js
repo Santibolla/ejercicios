@@ -10,6 +10,7 @@ imprimir todos los nombres en la lista
 */
 const nombres = ['hernan', 'luis', 'gerardo', 'horacio']
 
+console.log(nombres)
 
 /*
 Ejercicio 3:
